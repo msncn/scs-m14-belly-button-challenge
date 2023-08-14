@@ -47,4 +47,4 @@ The following task is advanced and therefore optional.
 
 Hints
 * Use `console.log` inside of your JavaScript code to see what your data looks like at each step.
-* Refer to the Plotly.js documentationLinks to an external site. when building the plots.
+* Refer to the Plotly.js documentation (https://plotly.com/javascript/) to an external site. when building the plots.
