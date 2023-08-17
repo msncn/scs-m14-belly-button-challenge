@@ -2,6 +2,8 @@
 
 In this challenge, we will be using data provided to plot charts
 
+Deployed GitHub Pages: https://msncn.github.io/scs-m14-belly-button-challenge/
+
 ## Instructions
 
 1. Use the D3 library to read in samples.json from the URL `https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json.`
